@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by Ram Murti",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram-murti/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ram Murti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram-murti/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/ram-murti/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
